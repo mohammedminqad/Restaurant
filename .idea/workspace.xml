@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3a867b7-5946-4a8c-b7fd-b46152ad0a8e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/about/about.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/about/about.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/analytics/analytics.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/analytics/analytics.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/blog/blog.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/blog/blog.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/contact/contact.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/contact/contact.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/home/home.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/home/home.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/menu/menu.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/menu/menu.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/services/services.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/services/services.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/table/table.component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/components/table/table.template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stash/archive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stash/page-menu.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/images/.favicon~imageoptim.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/images/documentation/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/images/documentation/logo-nectarine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/images/map-marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page-menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page-standard-heading-left-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page-standard-heading-right-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page-standard-heading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/page-standard-right-sidebar.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/404.html" afterPath="$PROJECT_DIR$/stash/404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap.css" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/html/assets/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/IMG_00501.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/IMG_00501.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/IMG_4236.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/IMG_4236.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/Zamani-Mediterranean-Grill-Spring-06.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/Zamani-Mediterranean-Grill-Spring-06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/apple-touch-icon-114.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/apple-touch-icon-114.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/apple-touch-icon-144.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/apple-touch-icon-144.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/apple-touch-icon-72.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/apple-touch-icon-72.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/apple-touch-icon.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/apple-touch-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/favicon.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/img_0070.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/img_0070.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/img_0092.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/img_0092.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/img_0184.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/img_0184.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/img_4266.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/img_4266.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/img_4286.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/img_4286.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/logo1.png" afterPath="$PROJECT_DIR$/html/assets/images/icons/logo1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s1.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s10.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s11 (1).jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s11 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s11.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s12.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s2.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s3.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s4.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s5.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s6.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s7.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s8.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/images/icons/s9.jpg" afterPath="$PROJECT_DIR$/html/assets/images/icons/s9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-about.html" afterPath="$PROJECT_DIR$/stash/page-about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-contacts.html" afterPath="$PROJECT_DIR$/stash/page-contacts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-credits.html" afterPath="$PROJECT_DIR$/stash/page-credits.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-accordion.html" afterPath="$PROJECT_DIR$/stash/page-features-accordion.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-blocks.html" afterPath="$PROJECT_DIR$/stash/page-features-blocks.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-buttons.html" afterPath="$PROJECT_DIR$/stash/page-features-buttons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-captions.html" afterPath="$PROJECT_DIR$/stash/page-features-captions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-columns.html" afterPath="$PROJECT_DIR$/stash/page-features-columns.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-galleries.html" afterPath="$PROJECT_DIR$/stash/page-features-galleries.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-gmaps.html" afterPath="$PROJECT_DIR$/stash/page-features-gmaps.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-progbar.html" afterPath="$PROJECT_DIR$/stash/page-features-progbar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-tables.html" afterPath="$PROJECT_DIR$/stash/page-features-tables.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-features-tabs.html" afterPath="$PROJECT_DIR$/stash/page-features-tabs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-services.html" afterPath="$PROJECT_DIR$/stash/page-services.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-standard-full-width.html" afterPath="$PROJECT_DIR$/stash/page-standard-full-width.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/page-standard-left-sidebar.html" afterPath="$PROJECT_DIR$/stash/page-standard-left-sidebar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/_animations.scss" afterPath="$PROJECT_DIR$/html/assets/scss/_animations.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/_mixin.scss" afterPath="$PROJECT_DIR$/html/assets/scss/_mixin.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/_responsive.scss" afterPath="$PROJECT_DIR$/html/assets/scss/_responsive.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/_variables.scss" afterPath="$PROJECT_DIR$/html/assets/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/ie.css" afterPath="$PROJECT_DIR$/html/assets/scss/ie.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/styles.css" afterPath="$PROJECT_DIR$/html/assets/scss/styles.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/styles.css.map" afterPath="$PROJECT_DIR$/html/assets/scss/styles.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/scss/styles.scss" afterPath="$PROJECT_DIR$/html/assets/scss/styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
+    </list>
+    <ignored path="Restaurant.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Restaurant" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="about.template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/components/about/about.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="205" column="10" selection-start-line="205" selection-start-column="10" selection-end-line="205" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analytics.template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/components/analytics/analytics.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="340" column="10" selection-start-line="340" selection-start-column="10" selection-end-line="340" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stash/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/.idea/html.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/components/menu/menu.template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stash/page-menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6443">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analytics.component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/components/analytics/analytics.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-features-progbar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stash/page-features-progbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="454" column="14" selection-start-line="114" selection-start-column="4" selection-end-line="454" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/html/scss/styles.css" />
+        <option value="$PROJECT_DIR$/html/components/home/home.component.js" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/html/components/menu/menu.component.js" />
+        <option value="$PROJECT_DIR$/html/components/menu/menu.template.html" />
+        <option value="$PROJECT_DIR$/html/components/home/home.template.html" />
+        <option value="$PROJECT_DIR$/html/components/table/table.component.js" />
+        <option value="$PROJECT_DIR$/html/components/table/table.template.html" />
+        <option value="$PROJECT_DIR$/html/components/blog/blog.component.js" />
+        <option value="$PROJECT_DIR$/html/archive.html" />
+        <option value="$PROJECT_DIR$/html/components/blog/blog.template.html" />
+        <option value="$PROJECT_DIR$/html/page-contacts.html" />
+        <option value="$PROJECT_DIR$/html/components/contact/contact.template.html" />
+        <option value="$PROJECT_DIR$/html/components/contact/contact.component.js" />
+        <option value="$PROJECT_DIR$/html/components/contact/services/services.template.html" />
+        <option value="$PROJECT_DIR$/html/components/contact/services/services.component.js" />
+        <option value="$PROJECT_DIR$/html/components/about/about.component.js" />
+        <option value="$PROJECT_DIR$/html/components/about/about.template.html" />
+        <option value="$PROJECT_DIR$/html/components/analytics/analytics.component.js" />
+        <option value="$PROJECT_DIR$/html/components/analytics/analytics.template.html" />
+        <option value="$PROJECT_DIR$/html/stash/page-menu.html" />
+        <option value="$PROJECT_DIR$/html/page-menu.html" />
+        <option value="$PROJECT_DIR$/stash/page-menu.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="56" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Restaurant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/interstitials/interstitial-engine" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/html/assets" />
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/stash" />
+      <recent name="$PROJECT_DIR$/html/stash" />
+      <recent name="$PROJECT_DIR$/html/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3a867b7-5946-4a8c-b7fd-b46152ad0a8e" name="Default" comment="" />
+      <created>1478925197376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478925197376</updated>
+      <workItem from="1478925198825" duration="7002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7002000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="56" width="1440" height="811" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html/assets/scss/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1580" column="0" selection-start-line="1580" selection-start-column="0" selection-end-line="1580" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/home/home.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/menu/menu.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/home/home.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/table/table.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/table/table.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/blog/blog.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/blog/blog.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="235" column="25" selection-start-line="235" selection-start-column="25" selection-end-line="235" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/page-contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="165" column="14" selection-start-line="113" selection-start-column="4" selection-end-line="165" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/contact/contact.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/contact/contact.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/page-services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="240" column="14" selection-start-line="114" selection-start-column="4" selection-end-line="240" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/services/services.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="126" column="10" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/services/services.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/about/about.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/page-about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="320" column="14" selection-start-line="115" selection-start-column="4" selection-end-line="320" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/about/about.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="205" column="10" selection-start-line="205" selection-start-column="10" selection-end-line="205" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/analytics/analytics.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/page-features-progbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="454" column="14" selection-start-line="114" selection-start-column="4" selection-end-line="454" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/analytics/analytics.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="340" column="10" selection-start-line="340" selection-start-column="10" selection-end-line="340" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/.idea/html.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/components/menu/menu.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stash/page-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6443">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
